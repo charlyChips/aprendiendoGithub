@@ -16,9 +16,9 @@ public class JavaTestGitHub {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hola mundo git desde mac");
-        System.out.println("Hola mundo git desde Web");
-        System.out.println("Hola mundo git desde Web 2");
+        System.out.println("Hola Mundo Git Desde Mac");
+        System.out.println("Hola Mundo Git Desde Web");
+        System.out.println("Hola Mundo Git Desde Web 2");
     }
     
 }
